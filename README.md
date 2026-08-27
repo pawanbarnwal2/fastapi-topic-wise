@@ -28,7 +28,7 @@
 
 ### Learn
 
-* [ ] What is FastAPI?
+* [X] What is FastAPI?
 * [ ] FastAPI vs Flask vs Django
 * [ ] ASGI vs WSGI
 * [ ] Uvicorn
